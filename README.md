@@ -1,6 +1,7 @@
 # Ben Mindlin
 
 **`MSc in Mathematical Modelling and Scientific Computing | University of Oxford`**
+
 Recent Oxford graduate in Mathematical Modelling and Scientific Computing, specializing in Biophysical Modelling.
 Proficient in Python and C++, currently exploring applications of mathematical physics principles to biological challenges.
 Passionate about incorporating Test-Driven Development practices into development of new numerical methods.
