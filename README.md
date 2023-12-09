@@ -22,11 +22,17 @@ Passionate about incorporating Test-Driven Development practices into developmen
 
 ### 📺 Latest Projects
 Dissertation on Stokes Flow Mobility Problems (PyLARS)
+Pathlines in Porous Medium |  Moffat Eddies at Cardiod Cusp
+:-------------------------:|:-------------------------:
+<img width="500" alt="porous_pathlines" src="https://github.com/bennm37/bennm37/assets/79370760/f9659d39-1e35-4781-91fd-e3036dd8565e"> | <img width="700" alt="moffat_eddies" src="https://github.com/bennm37/bennm37/assets/79370760/c7882005-aa49-4291-b853-69572d820ae2">
 
+Scientific Computing Case Study - Image Coloriser GUI using Reproducing Kernel Hilbert Spaces
+
+<img width="1383" alt="mmsc_gui_lanterns" src="https://github.com/bennm37/bennm37/assets/79370760/31a94b1b-42ee-4eeb-8980-5aae6f2dca30">
 
 
 <details>
- <summary><h3>👨‍💻 Coding Background</h3></summary>
-
-
+ <summary><h3>👨‍💻 Coding Journey</h3></summary>
+I started coding at the age of 10, creating a scientific calculator in scratch (https://scratch.mit.edu/projects/1862622/) and programming my lego robot, before going onto build simple games in Python and solve Project Euler puzzles in secondary school. In sixth form I developed a simple interface to keep track of the stats of opponents in online poker games in real time, and implemented algorithms to play mastermind and solve sudokus. Uni. Masters. Now.
+ 
 [linkedin]: https://www.linkedin.com/in/ben-mindlin-084136207/
