@@ -33,6 +33,7 @@ Scientific Computing Case Study - Image Coloriser GUI using Reproducing Kernel H
 
 <details>
  <summary><h3>👨‍💻 Coding Journey</h3></summary>
-I started coding at the age of 10, creating a scientific calculator in scratch (https://scratch.mit.edu/projects/1862622/) and programming my lego robot, before going onto build simple games in Python and solve Project Euler puzzles in secondary school. In sixth form I developed a simple interface to keep track of the stats of opponents in online poker games in real time, and implemented algorithms to play mastermind and solve sudokus. Uni. Masters. Now.
+I started coding at the age of 10, creating a scientific calculator in scratch (https://scratch.mit.edu/projects/1862622/) and programming my lego robot, before going onto build simple games in Python and solve Project Euler puzzles in secondary school. In sixth form I developed a simple interface to keep track of the stats of opponents in online poker games in real time, and implemented algorithms to play mastermind and solve sudokus. My BSc in Mathematics at Bristol exposed me to the world of scientific computing and agent based models: I co-developed optimised C++ code to simulate epithelial cell dynamics, analysed the stastical behaviour of 3D vicsek simulations in Python and taught Mathematical Programming using Jupyter notebooks. My MSc in Mathematical Modelling and Scientific Computing at Oxford develped my skills in Test Driven Development, Numerical Methods, High Performance Computing and GUI development and I'm conintuing to work on these skills in solo side projects. 
+<\details>
  
 [linkedin]: https://www.linkedin.com/in/ben-mindlin-084136207/
